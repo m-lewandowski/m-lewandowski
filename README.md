@@ -12,6 +12,7 @@
 
 #### Languages and tools
 
+<div>
 <img src="./images/js.svg" alt="JavaScript" width="40" height="40">
 <img src="./images/ts.svg" alt="TypeScript" width="40" height="40">
 <img src="./images/react.svg" alt="React.js" width="40" height="40">
@@ -23,3 +24,4 @@
 <img src="./images/sc.png" alt="styled-components" width="40" height="40">
 <img src="./images/tailwind.svg" alt="Tailwind CSS" width="40" height="40">
 <img src="./images/gql.svg" alt="GraphQL" width="40" height="40">
+</div>
