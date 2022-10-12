@@ -1,6 +1,6 @@
 ![header](./images/header.png)
 
-##Hi there, I'm Mikołaj 👋
+## Hi there, I'm Mikołaj 👋
 
 ```css
 👨‍💻 developer-type: frontend;
@@ -10,7 +10,8 @@
 🚀 wants-to-contribute: true;
 ```
 
-####Languages and tools
+#### Languages and tools
+
 <img src="./images/js.svg" alt="JavaScript" width="40" height="40">
 <img src="./images/ts.svg" alt="TypeScript" width="40" height="40">
 <img src="./images/react.svg" alt="React.js" width="40" height="40">
