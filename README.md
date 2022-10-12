@@ -1,4 +1,24 @@
 ![header](./images/header.png)
 
-<h1 style="color:#cad1d8;">Hi there, I'm Mikołaj 👋</h1>
-<div style="background:#0e1116;position:absolute;width:100%;height:100%;top:0;left:0;z-index:-1;"></div>
+##Hi there, I'm Mikołaj 👋
+
+```css
+👨‍💻 developer-type: frontend;
+👶 experience: junior;
+👨‍🎓 student: warsaw-university-of-technology;
+🔨 favourite-tool: react-js;
+🚀 wants-to-contribute: true;
+```
+
+####Languages and tools
+<img src="./images/js.svg" alt="JavaScript" width="40" height="40">
+<img src="./images/ts.svg" alt="TypeScript" width="40" height="40">
+<img src="./images/react.svg" alt="React.js" width="40" height="40">
+<img src="./images/next.svg" alt="Next.js" height="40">
+<img src="./images/gatsby.svg" alt="Gatsby.js" width="40" height="40">
+<img src="./images/html.svg" alt="HTML" width="40" height="40">
+<img src="./images/css.svg" alt="CSS" width="40" height="40">
+<img src="./images/sass.svg" alt="Sass" height="40">
+<img src="./images/sc.png" alt="styled-components" width="40" height="40">
+<img src="./images/tailwind.svg" alt="Tailwind CSS" width="40" height="40">
+<img src="./images/gql.svg" alt="GraphQL" width="40" height="40">
